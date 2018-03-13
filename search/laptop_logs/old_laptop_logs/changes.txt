@@ -1,0 +1,4 @@
+experiments: h2l, l2h, 3+recomb, h
+lots of memory usage
+does not save log from search
+
